@@ -14,7 +14,7 @@
     "environments": [],
     "themes": [],
     "auth": {
-      "enabled": false,
+      "enabled": true,
       "mockedUserAccounts": []
     }
   },

@@ -36,5 +36,6 @@
       "type": "core-component",
       "expressions": []
     }
-  ]
+  ],
+  "authenticationRequired": true
 }
